@@ -16,12 +16,17 @@ This project focuses on recreating the front-end design of the Amazon website, s
 - **CSS3**
 
 ## 🧠 **Learning Outcomes**
--> Improved HTML structure and semantic usage
--> Gained experience in CSS Flexbox and Grid layouts
--> Practiced responsive web design techniques
--> Enhanced attention to design details
+-> Improved understanding of HTML structure and semantic elements  
+-> Enhanced styling skills using CSS Flexbox and Grid  
+-> Learned responsive web design techniques  
+-> Practiced replicating real-world website layouts  
+-> Strengthened visual design and alignment precision  
+
 
 ##🚀 **Future Improvements**
--> Add interactivity using JavaScript
--> Include product pages and login section
--> Implement a shopping cart system in future versions
+-> Add JavaScript for interactivity (search, cart, etc.)  
+-> Include product detail pages and login form  
+-> Integrate backend to make it a functional e-commerce site  
+-> Enhance animations and hover effects  
+-> Optimize design for faster loading  
+
