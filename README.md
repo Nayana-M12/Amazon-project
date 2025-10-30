@@ -23,7 +23,7 @@ This project focuses on recreating the front-end design of the Amazon website, s
 -> Strengthened visual design and alignment precision  
 
 
-##🚀 **Future Improvements**
+## 🚀 **Future Improvements**
 -> Add JavaScript for interactivity (search, cart, etc.)  
 -> Include product detail pages and login form  
 -> Integrate backend to make it a functional e-commerce site  
